@@ -1,0 +1,22 @@
+.bot {
+  bottom: 0;
+  right: 0;
+  position: fixed;
+  width: 20rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.bot_btn {
+  float: right;
+  background-color: #ffca08;
+  width: fit-content;
+  border-radius: 1rem;
+  outline: none;
+  border: none;
+}
+.img {
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
